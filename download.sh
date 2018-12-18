@@ -15,3 +15,5 @@ wget https://www.ams.usda.gov/mnreports/am_gr310.txt -O texas/texas$(date +%Y%m%
 wget https://www.ams.usda.gov/mnreports/ag_gr310.txt -O utah/utah$(date +%Y%m%d).txt
 wget https://www.ams.usda.gov/mnreports/to_gr310.txt -O wyoming/wyoming$(date +%Y%m%d).txt
 wget https://www.ams.usda.gov/mnreports/ml_gr310.txt -O columbiabasin/columbiabasin$(date +%Y%m%d).txt
+wget https://www.ams.usda.gov/mnreports/sf_gr309.txt -O rvmon/rvmon$(date +%Y%m%d).txt
+wget https://www.ams.usda.gov/mnreports/sf_gr310.txt -O rvthurs/rvthurs$(date +%Y%m%d).txt
