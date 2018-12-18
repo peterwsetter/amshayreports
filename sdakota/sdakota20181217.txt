@@ -1,0 +1,94 @@
+LM_HG210
+Des Moines, Iowa                Thu, Jul 25, 2013               USDA Market News
+
+EASTERN CORNBELT DAILY DIRECT AFTERNOON HOG REPORT BASED ON STATE OF ORIGIN
+PLANT DELIVERED PURCHASE DATA FOR Thursday, July 25, 2013 (As of 1:30 PM)
+
+                          CURRENT VOLUME BY PURCHASE TYPE
+                      BARROWS & GILTS LIVE AND CARCASS BASIS
+
+                                      Estimated     Actual     Actual     Actual
+                                          Today      Today   Week Ago   Year Ago
+Producer Sold
+  Negotiated                              5,916      3,771      6,716      7,107
+  Other Market Formula                   13,825     12,960     42,553        865
+  Swine or Pork Market Formula           38,486     21,854     21,912     18,860
+  Other Purchase Arrangement             14,335     13,730     14,682     13,060
+Packer Sold (all purchase types)          1,510        520          0        362
+--------------------------------------------------------------------------------
+                   NEGOTIATED PURCHASE (Including Packer Sold)
+
+Barrows & Gilts (carcass basis): 2,843
+
+Compared to Prior Day's closing weighted average (LM_HG207), 0.30 lower
+
+Base Price Range $90.69 - $104.00, Weighted Average $92.14
+
+Base Price is the price from which no discounts are
+subtracted and no premiums are added.
+--------------------------------------------------------------------------------
+           EASTERN CORNBELT DAILY DIRECT NEGOTIATED HOG PURCHASE MATRIX
+           REPRESENTING INDIVIDUAL PACKER CARCASS MERIT BUYING PROGRAMS
+       based on both Fat and Muscle Measurements for a 200 lb Carcass Basis
+
+                             LOIN AREA/DEPTH (INCHES)
+
+BF      4.0/ 1.4       5.0/ 1.7       6.0/ 2.0       7.0/ 2.3       8.0/ 2.7
+0.4   95.50 107.00   97.00 108.50   97.00 108.50   98.50 110.00   98.50 110.00
+0.5   94.00 105.50   95.50 107.00   95.50 107.00   97.00 108.50   97.00 108.50
+0.6   94.00 105.50   94.00 105.50   95.50 107.00   95.50 107.00   97.00 108.50
+0.7   92.50 104.00   92.50 104.00   94.00 105.50   94.00 105.50   95.50 107.00
+0.8   91.50 103.00   92.50 104.00   92.50 104.00   92.50 104.00   94.00 105.50
+0.9   89.50 101.00   91.50 103.00   91.50 103.00   92.50 104.00   92.50 104.00
+1.0   89.50 101.00   89.50 101.00   89.50 101.00   91.50 103.00   92.50 104.00
+1.1   87.50  99.00   87.50  99.00   89.50 101.00   89.50 101.00   91.50 103.00
+1.2   85.50  97.00   85.50  97.00   87.50  99.00   87.50  99.00   89.50 101.00
+1.4   79.50  91.00   80.99  94.00   82.50  94.00   85.25  97.00   85.50  97.00
+--------------------------------------------------------------------------------
+                           CARCASS WEIGHT DIFFERENTIALS
+
+    145#   -30.00 -9.07          175#   -3.00  1.00          205#   -7.26  3.00
+    155#   -30.00  0.00          185#    0.00  1.50          215#   -7.26  3.00
+    165#   -15.00  0.00          195#   -1.81  3.00          225#   -7.26  1.00
+--------------------------------------------------------------------------------
+                  MEASUREMENTS BASED ON SLAUGHTER DATA SUBMITTED
+
+5-Day Rolling Average Market Hog: 191.51 lb carcass, 0.70 inch back-fat,
+7.05 square inch loin/2.35 inch loin depth, FFLI: 52.20%
+
+Price Range $94.00 - $105.50
+--------------------------------------------------------------------------------
+          SWINE OR PORK MARKET FORMULA PURCHASE (Including Packer Sold)
+
+Barrows & Gilts (carcass basis): 21,386
+
+Base Price Range $91.40 - $106.36, Weighted Average $96.30
+--------------------------------------------------------------------------------
+                   NEGOTIATED PURCHASE (Including Packer Sold)
+
+Barrows & Gilts (live basis, 240-300 lbs): 352
+
+Compared to Prior Day's closing weighted average (LM_HG207), 0.80 higher
+
+Price Range $70.95 - $78.20, Weighted Average $75.89
+--------------------------------------------------------------------------------
+BARROWS & GILTS PURCHASE BY STATE OF ORIGIN
+
+Alabama                 179               Georgia                  352
+Illinois             10,142               Indiana               14,704
+Kentucky              1,810               Michigan              10,439
+North Carolina          526               New York                 180
+Ohio                  9,081               Pennsylvania           1,410
+South Carolina          164               Tennessee              1,307
+Wisconsin               515
+--------------------------------------------------------------------------------
+Source:    USDA Market News Service, Des Moines, IA
+           515-284-4460      email:  desm.lgmn@usda.gov
+           24 Hour recorded market information 515-284-4830
+           www.ams.usda.gov/LSMarketNews
+1500C
+
+
+
+.
+
